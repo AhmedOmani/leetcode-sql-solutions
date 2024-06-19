@@ -9,4 +9,5 @@ The purpose of this repository is to document my journey through solving SQL pro
 These problems help to improve my SQL skills and understanding of database concepts. 
 
 ## Solutions
-[1341. Movie Rating] https://leetcode.com/problems/movie-rating/          
+[1341. Movie Rating] https://leetcode.com/problems/movie-rating/   
+[1204. Last Person to Fit in the Bus.sql] https://leetcode.com/problems/last-person-to-fit-in-the-bus/
