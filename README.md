@@ -11,3 +11,4 @@ These problems help to improve my SQL skills and understanding of database conce
 ## Solutions
 [1341. Movie Rating] https://leetcode.com/problems/movie-rating/   
 [1204. Last Person to Fit in the Bus.sql] https://leetcode.com/problems/last-person-to-fit-in-the-bus/
+[1978. Employees Whose Manager Left the Company] https://leetcode.com/problems/employees-whose-manager-left-the-company/description/
